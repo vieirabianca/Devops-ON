@@ -35,11 +35,7 @@ jobs:
         # queries: security-extended,security-and-quality
     
     
-    # Exemplo echo
-    - name: Hello World
-      run: echo "Hello World!!!" 
-
-        
+       
     # Autobuild attempts to build any compiled languages  (C/C++, C#, or Java).
     # If this step fails, then you should remove it and run the build manually (see below)
     - name: Autobuild
